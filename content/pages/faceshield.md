@@ -2,8 +2,8 @@
 title: lorem-ipsum
 sections:
   - title: The Troop 941 Faceshield Initiative
-    content: >+
-      ## We Need You!
+    content: >
+      #### We Need You!
 
 
       The COVID-19 situation is changing and changing fast. As the need for
@@ -24,7 +24,6 @@ sections:
       Costs of filament, transparency sheets, sheet protectors, and shipping are
       increasing, and your donations will help us to cover these costs that our
       team of 8 here in Pleasanton incur.
-
     type: content_section
   - title: Donate Now!
     subtitle: All proceeds go toward making more face shields for our First Responders!
