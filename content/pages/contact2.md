@@ -7,7 +7,7 @@ sections:
     title: Contact Us
   - title: Join our Discord Server
     actions:
-      - label: Join our Discord!
+      - label: Discord
         url: 'https://discord.com/invite/mvPe5jY9Ad'
         style: link
         new_window: false
