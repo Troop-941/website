@@ -29,7 +29,7 @@ sections:
   - title: Donate Now!
     subtitle: All proceeds go toward making more face shields for our First Responders!
     actions:
-      - label: lorem-ipsum
+      - label: Donate with Paypal
         url: '#'
         style: link
         new_window: false
