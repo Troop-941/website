@@ -13,7 +13,7 @@ sections:
         no_follow: false
         type: action
       - label: Email
-        url: '#'
+        url: 'mailto:scoutmaster@troop941.org'
         style: link
         new_window: false
         no_follow: false
