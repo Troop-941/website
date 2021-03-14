@@ -1,5 +1,5 @@
 ---
-title: lorem-ipsum
+title: Join Us!
 sections: []
 seo:
   title: ''
