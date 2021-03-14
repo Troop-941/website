@@ -20,7 +20,7 @@ sections:
         type: action
       - label: twitter
         url: 'https://www.twitter.com/t941'
-        style: link
+        style: secondary
         new_window: false
         no_follow: false
         type: action
