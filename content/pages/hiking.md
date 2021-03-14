@@ -1,5 +1,5 @@
 ---
-title: lorem-ipsum
+title: 'Hiking '
 sections: []
 seo:
   title: ''
