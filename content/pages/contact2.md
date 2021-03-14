@@ -15,7 +15,6 @@ sections:
     has_background: false
     background_color: white
     type: cta_section
-    subtitle: Join our Discord Server
 seo:
   title: ''
   description: ''
