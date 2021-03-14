@@ -1,5 +1,5 @@
 ---
-title: lorem-ipsum
+title: Our Eagle's Nest
 seo:
   title: ''
   description: ''
