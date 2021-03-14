@@ -47,7 +47,7 @@ sections:
     has_background: true
     background_color: gray
 seo:
-  title: Stackbit Starter Theme
+  title: Troop 941 - Pleasanton CA.
   description: The preview of the Starter theme
   extra:
     - name: 'og:type'
