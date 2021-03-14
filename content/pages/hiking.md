@@ -22,7 +22,7 @@ sections:
     actions:
       - label: Try AllTrails
         url: 'http://alltrails.com/'
-        style: link
+        style: secondary
         new_window: false
         no_follow: false
         type: action
