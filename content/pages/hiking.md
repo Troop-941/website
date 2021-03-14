@@ -19,7 +19,13 @@ sections:
       account is free and lets you use the mobile app, but is not necessary to
       use the web app. The coverage of the East Bay Area was improved in the
       summer of 2020 by Troop 941.
-    actions: []
+    actions:
+      - label: lorem-ipsum
+        url: '#'
+        style: link
+        new_window: false
+        no_follow: false
+        type: action
     has_background: false
     background_color: white
     type: cta_section
