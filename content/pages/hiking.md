@@ -21,7 +21,7 @@ sections:
       summer of 2020 by Troop 941.
     actions:
       - label: Try AllTrails
-        url: '#'
+        url: 'http://alltrails.com/'
         style: link
         new_window: false
         no_follow: false
