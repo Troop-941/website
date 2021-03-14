@@ -38,7 +38,7 @@ sections:
     actions:
       - label: Try Hiking Project
         url: 'https://www.hikingproject.com/'
-        style: link
+        style: secondary
         new_window: true
         no_follow: false
         type: action
