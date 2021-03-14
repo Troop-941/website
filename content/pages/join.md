@@ -2,17 +2,8 @@
 title: Join Us!
 sections:
   - title: Join Us!
-    content: >-
-      ## Lorem ipsum
-
-
-      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-      eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-      - Lorem ipsum
-
-      - dolor sit amet
+    content: |
+      This Page is Under Development...
     type: content_section
 seo:
   title: ''
