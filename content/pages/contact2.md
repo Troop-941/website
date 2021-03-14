@@ -7,7 +7,7 @@ sections:
     title: Contact Us
   - title: Join our Discord Server
     actions:
-      - label: lorem-ipsum
+      - label: Join our Discord!
         url: '#'
         style: link
         new_window: false
