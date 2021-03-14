@@ -1,7 +1,7 @@
 ---
 title: Join Us!
 sections:
-  - title: lorem-ipsum
+  - title: Join Us!
     content: >-
       ## Lorem ipsum
 
