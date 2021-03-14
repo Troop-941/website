@@ -9,7 +9,7 @@ sections:
     actions:
       - label: Discord
         url: 'https://discord.com/invite/mvPe5jY9Ad'
-        style: primary
+        style: secondary
         new_window: true
         no_follow: false
         type: action
