@@ -28,7 +28,9 @@ sections:
       - content/data/team/gordon-norman.yaml
   - type: cta_section
     title: Join the Team
-    subtitle: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit.'
+    subtitle: >-
+      We are always open, for new boys, and those with experience too. That
+      means you too, adults!
     actions:
       - label: Learn More
         url: /join
