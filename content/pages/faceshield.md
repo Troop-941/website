@@ -27,7 +27,7 @@ sections:
 
     type: content_section
   - title: Donate Now!
-    subtitle: lorem-ipsum
+    subtitle: All proceeds go toward making more face shields for our First Responders!
     actions: []
     has_background: false
     background_color: white
