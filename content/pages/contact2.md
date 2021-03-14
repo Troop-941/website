@@ -5,8 +5,7 @@ sections:
       To contact us, please select one of the options below:
     type: content_section
     title: Contact Us
-  - title: Join our Discord Server
-    actions:
+  - actions:
       - label: Discord
         url: 'https://discord.com/invite/mvPe5jY9Ad'
         style: secondary
