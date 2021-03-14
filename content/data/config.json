@@ -1,18 +1,18 @@
 {
-    "title": "Stackbit Starter Theme",
+    "title": "Troop 941 - Pleasanton CA",
     "path_prefix": "/",
     "header": {
-        "title": "Starter",
+        "title": "Troop 941",
         "has_nav": true,
         "nav_links": [
             {
-                "label": "Features",
-                "url": "/features",
+                "label": "Our Eagles",
+                "url": "/eaglesnest",
                 "style": "link"
             },
             {
-                "label": "Blog",
-                "url": "/blog",
+                "label": "Faceshield Initiave",
+                "url": "/faceshield",
                 "style": "link"
             },
             {
@@ -21,13 +21,13 @@
                 "style": "link"
             },
             {
-                "label": "Style Guide",
-                "url": "/style-guide",
+                "label": "Hiking",
+                "url": "/hiking",
                 "style": "link"
             },
             {
-                "label": "Contact Us",
-                "url": "/contact",
+                "label": "Log In",
+                "url": "https://scoutbook.scouting.org/",
                 "style": "primary"
             }
         ]
@@ -41,8 +41,8 @@
                 "style": "link"
             },
             {
-                "label": "Privacy and Terms",
-                "url": "/terms",
+                "label": "Join Us!",
+                "url": "/join",
                 "style": "link"
             }
         ],
@@ -50,23 +50,25 @@
         "social_links": [
             {
                 "label": "Twitter",
-                "url": "https://twitter.com/",
+                "url": "https://twitter.com/t941",
                 "style": "link",
                 "new_window": true
             },
             {
-                "label": "GitHub",
-                "url": "https://github.com/",
+                "label": "Discord",
+                "url": "https://discord.com/invite/mvPe5jY9Ad",
                 "style": "link",
                 "new_window": true
             },
             {
-                "label": "LinkedIn",
-                "url": "https://www.linkedin.com/",
+                "label": "Email",
+                "url": "mailto:scoutmaster@troop941.org",
                 "style": "link",
                 "new_window": true
             }
         ],
-        "content": "&copy; Stackbit. All rights reserved. This Jamstack site was created with <a href=\"https://www.stackbit.com/?utm_source=deployed-footer\" target=\"_blank\" rel=\"noopener\">Stackbit</a>. Create yours <a href=\"https://app.stackbit.com/create?theme=starter&utm_source=deployed-footer\" target=\"_blank\" rel=\"noopener\">now</a>"
-    }
+        "content": "This <a href=\"https://nextjs.org/\">Next.js</a> Jamstack site was created with <a href=\"https://www.stackbit.com/\" target=\"_blank\" rel=\"noopener\">Stackbit</a>, and deployed on the <a href=\"https://www.cloudflare.com/\">Cloudflare</a> edge."
+    },
+    "domain": "https://troopninefortyone-d4f21.netlify.app",
+    "favicon": "images/smart-lettuce.png"
 }
