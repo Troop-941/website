@@ -10,7 +10,7 @@ sections:
       - label: Discord
         url: 'https://discord.com/invite/mvPe5jY9Ad'
         style: link
-        new_window: false
+        new_window: true
         no_follow: false
         type: action
     has_background: false
