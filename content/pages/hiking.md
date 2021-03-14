@@ -46,7 +46,7 @@ sections:
     background_color: white
     type: cta_section
 seo:
-  title: ''
+  title: Hiking Resources
   description: ''
   robots: []
   extra: []
