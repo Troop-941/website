@@ -30,7 +30,7 @@ sections:
     title: Join the Team
     subtitle: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit.'
     actions:
-      - label: Contact Us
+      - label: Learn More
         url: /contact
         style: secondary
     has_background: true
