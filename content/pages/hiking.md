@@ -1,7 +1,7 @@
 ---
 title: Hiking Resources
 sections:
-  - title: lorem-ipsum
+  - title: Hiking Resources
     content: >-
       ## Lorem ipsum
 
