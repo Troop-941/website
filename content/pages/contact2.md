@@ -6,7 +6,13 @@ sections:
     type: content_section
     title: Contact Us
   - title: Join our Discord Server
-    actions: []
+    actions:
+      - label: lorem-ipsum
+        url: '#'
+        style: link
+        new_window: false
+        no_follow: false
+        type: action
     has_background: false
     background_color: white
     type: cta_section
