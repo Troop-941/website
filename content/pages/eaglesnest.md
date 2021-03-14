@@ -10,11 +10,11 @@ layout: page
 ---
 Troop 941 has a proud history of helping our scouts achieve their goal of reaching the rank of Eagle Scout
 
-*   80  12/16/20 Jacob McMillin
+*   80 - 12/16/20 Jacob McMillin
 
 *   79 - 12/15/20 Aaron McMillin
 
-*   78 - 10/12/20  Aaron Miller
+*   78 - 10/12/20 Aaron Miller
 
 *   77 - 9/16/20 Derek Dressler
 
@@ -42,7 +42,7 @@ Troop 941 has a proud history of helping our scouts achieve their goal of reach
 
 *   65 - 5/16/18 Nick Palma
 
-*   64 - 4/5/17  Zach Hartley
+*   64 - 4/5/17 Zach Hartley
 
 *   63 - 1/4/17 Jack Gillette
 
@@ -58,7 +58,7 @@ Troop 941 has a proud history of helping our scouts achieve their goal of reach
 
 *   57 - 8/13/15 Ravi Nagda
 
-*   56 - 1/7/15 Jacob Rochon 
+*   56 - 1/7/15 Jacob Rochon
 
 *   55 - 12/17/14 Scott Rowland
 
