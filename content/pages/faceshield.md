@@ -40,7 +40,7 @@ sections:
     background_color: gray
     type: cta_section
 seo:
-  title: ''
+  title: Troop 941 Faceshield Initiative
   description: ''
   robots: []
   extra: []
