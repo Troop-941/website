@@ -20,7 +20,7 @@ sections:
       use the web app. The coverage of the East Bay Area was improved in the
       summer of 2020 by Troop 941.
     actions:
-      - label: lorem-ipsum
+      - label: Try AllTrails
         url: '#'
         style: link
         new_window: false
