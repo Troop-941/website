@@ -6,7 +6,6 @@ sections:
     type: content_section
     title: Contact Us
   - title: Join our Discord Server
-    subtitle: lorem-ipsum
     actions: []
     has_background: false
     background_color: white
