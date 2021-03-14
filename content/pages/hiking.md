@@ -1,5 +1,5 @@
 ---
-title: 'Hiking '
+title: Hiking Resources
 sections: []
 seo:
   title: ''
