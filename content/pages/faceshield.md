@@ -28,7 +28,13 @@ sections:
     type: content_section
   - title: Donate Now!
     subtitle: All proceeds go toward making more face shields for our First Responders!
-    actions: []
+    actions:
+      - label: lorem-ipsum
+        url: '#'
+        style: link
+        new_window: false
+        no_follow: false
+        type: action
     has_background: false
     background_color: white
     type: cta_section
