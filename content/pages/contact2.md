@@ -5,7 +5,7 @@ sections:
       To contact us, please select one of the options below:
     type: content_section
     title: Contact Us
-  - title: Join our Discord Servere
+  - title: Join our Discord Server
     subtitle: lorem-ipsum
     actions: []
     has_background: false
