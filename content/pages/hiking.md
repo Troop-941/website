@@ -13,7 +13,12 @@ sections:
       Area.
     type: content_section
   - title: AllTrails
-    subtitle: lorem-ipsum
+    subtitle: >-
+      This is an easy to use map software for your smartphone and computer which
+      is great for finding new urban and outdoor hiking opportunities. An
+      account is free and lets you use the mobile app, but is not necessary to
+      use the web app. The coverage of the East Bay Area was improved in the
+      summer of 2020 by Troop 941.
     actions: []
     has_background: false
     background_color: white
