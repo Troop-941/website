@@ -37,7 +37,7 @@ sections:
       maps. An account is not necessary for either the app or webpage.
     actions:
       - label: Try Hiking Project
-        url: '#'
+        url: 'https://www.hikingproject.com/'
         style: link
         new_window: false
         no_follow: false
