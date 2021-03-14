@@ -30,7 +30,7 @@ sections:
           Troop, having aided over 80 Scouts to reach their Eagle Rank since
           2001. Come check us out today!
         align: left
-        image: images/feature.svg
+        image: images/group.png
         image_alt: Feature 1 placeholder image
         image_position: right
         actions:
