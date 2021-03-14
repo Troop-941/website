@@ -8,7 +8,7 @@ sections:
   - title: Join our Discord Server
     actions:
       - label: Join our Discord!
-        url: '#'
+        url: 'https://discord.com/invite/mvPe5jY9Ad'
         style: link
         new_window: false
         no_follow: false
