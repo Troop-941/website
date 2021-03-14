@@ -19,7 +19,7 @@ sections:
         no_follow: false
         type: action
       - label: twitter
-        url: '#'
+        url: 'https://www.twitter.com/t941'
         style: link
         new_window: false
         no_follow: false
