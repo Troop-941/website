@@ -11,7 +11,7 @@ sections:
         url: /faceshield
         style: primary
   - type: team_section
-    title: Our Team
+    title: Our Patrol Leader Council
     team:
       - content/data/team/miles-tone.yaml
       - content/data/team/dianne-ameter.yaml
