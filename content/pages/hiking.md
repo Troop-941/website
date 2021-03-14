@@ -47,7 +47,9 @@ sections:
     type: cta_section
 seo:
   title: Hiking Resources
-  description: ''
+  description: >-
+    Find resources to help you get outside, and enjoy the natural splendor of
+    the Bay Area!
   robots: []
   extra: []
   type: stackbit_page_meta
