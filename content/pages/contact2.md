@@ -12,7 +12,7 @@ sections:
         new_window: true
         no_follow: false
         type: action
-      - label: lorem-ipsum
+      - label: Email
         url: '#'
         style: link
         new_window: false
