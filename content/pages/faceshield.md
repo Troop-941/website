@@ -1,5 +1,5 @@
 ---
-title: lorem-ipsum
+title: Faceshield Initiative
 sections:
   - title: The Troop 941 Faceshield Initiative
     content: >
