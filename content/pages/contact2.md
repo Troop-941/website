@@ -14,7 +14,7 @@ sections:
         type: action
       - label: Email
         url: 'mailto:scoutmaster@troop941.org'
-        style: link
+        style: secondary
         new_window: false
         no_follow: false
         type: action
