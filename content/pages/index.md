@@ -35,7 +35,7 @@ sections:
         image_position: right
         actions:
           - label: Join Us!
-            url: /features
+            url: /join
             style: secondary
   - type: cta_section
     title: Support the Troop 941 Face Shield Initiative
