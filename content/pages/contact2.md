@@ -18,7 +18,7 @@ sections:
         new_window: false
         no_follow: false
         type: action
-      - label: twitter
+      - label: Twitter
         url: 'https://www.twitter.com/t941'
         style: secondary
         new_window: false
