@@ -41,7 +41,7 @@ sections:
     type: cta_section
 seo:
   title: Troop 941 Faceshield Initiative
-  description: ''
+  description: Donate now to support building PPE for our frontline workers!
   robots: []
   extra: []
   type: stackbit_page_meta
