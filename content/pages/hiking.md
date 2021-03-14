@@ -36,7 +36,7 @@ sections:
       for longer or more difficult hikes. The app works offline using downloaded
       maps. An account is not necessary for either the app or webpage.
     actions:
-      - label: lorem-ipsum
+      - label: 'Try '
         url: '#'
         style: link
         new_window: false
