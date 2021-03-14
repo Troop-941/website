@@ -15,12 +15,3 @@ The effort is led by Life Scout Kai Gottschalk and is supported by fellow scouts
 
 Costs of filament, transparency sheets, sheet protectors, and shipping are increasing, and your donations will help us to cover these costs that our team of 8 here in Pleasanton incur.
 
-- type: cta_section
-    title: Support the Troop 941 Face Shield Initiative
-    subtitle: Working hard to support those who save our lives every day!
-    actions:
-      - label: Learn More
-        url: /faceshield
-        style: primary
-    has_background: true
-    background_color: gray
