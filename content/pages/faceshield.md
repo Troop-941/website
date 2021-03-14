@@ -1,5 +1,5 @@
 ---
-title: lorem-ipsum
+title: The Troop 941 Face Shield Initiative!
 seo:
   title: ''
   description: ''
