@@ -12,7 +12,7 @@ sections:
       included some resources to help you find hiking opportunities in the Bay
       Area.
     type: content_section
-  - title: lorem-ipsum
+  - title: AllTrails
     subtitle: lorem-ipsum
     actions: []
     has_background: false
