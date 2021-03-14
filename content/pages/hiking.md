@@ -35,7 +35,13 @@ sections:
       has more detailed topographical maps and trail information that is better
       for longer or more difficult hikes. The app works offline using downloaded
       maps. An account is not necessary for either the app or webpage.
-    actions: []
+    actions:
+      - label: lorem-ipsum
+        url: '#'
+        style: link
+        new_window: false
+        no_follow: false
+        type: action
     has_background: false
     background_color: white
     type: cta_section
