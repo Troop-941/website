@@ -13,6 +13,7 @@ sections:
 
       - dolor sit amet
     type: content_section
+    title: Contact Us
 seo:
   title: ''
   description: ''
