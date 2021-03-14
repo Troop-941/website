@@ -71,9 +71,7 @@ sections:
     recent_count: 3
   - type: cta_section
     title: Support the Troop 941 Face Shield Initiative
-    subtitle: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a metus
-      quis lorem malesuada luctus.
+    subtitle: Working hard to support those who save our lives every day!
     actions:
       - label: Learn More
         url: /features
