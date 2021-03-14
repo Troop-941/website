@@ -27,7 +27,7 @@
             },
             {
                 "label": "Log In",
-                "url": "/contact",
+                "url": "https://scoutbook.scouting.org/",
                 "style": "primary"
             }
         ]
