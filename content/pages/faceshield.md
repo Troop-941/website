@@ -32,7 +32,7 @@ sections:
       - label: Donate with Paypal
         url: >-
           https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=treasurer%40troop941.org&currency_code=USD
-        style: link
+        style: primary
         new_window: false
         no_follow: false
         type: action
