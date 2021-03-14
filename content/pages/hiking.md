@@ -30,7 +30,11 @@ sections:
     background_color: white
     type: cta_section
   - title: Hiking Project
-    subtitle: lorem-ipsum
+    subtitle: >-
+      This is a curated hiking software for both smartphones and computers. This
+      has more detailed topographical maps and trail information that is better
+      for longer or more difficult hikes. The app works offline using downloaded
+      maps. An account is not necessary for either the app or webpage.
     actions: []
     has_background: false
     background_color: white
