@@ -6,7 +6,7 @@ sections:
     subtitle: Home of 80 Eagle Scouts since 2001!
     actions:
       - label: Learn More
-        url: /features
+        url: /about
         style: primary
       - label: Contact Us
         url: /contact
