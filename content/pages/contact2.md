@@ -1,8 +1,7 @@
 ---
 title: Contact Us
 sections:
-  - title: lorem-ipsum
-    content: >-
+  - content: >-
       ## Lorem ipsum
 
 
