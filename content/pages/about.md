@@ -27,7 +27,7 @@ sections:
       - content/data/team/hanson-deck.yaml
       - content/data/team/gordon-norman.yaml
   - type: cta_section
-    title: Join the Team
+    title: Join the Troop
     subtitle: >-
       We are always open, for new boys, and those with experience too. That
       means you too, adults!
