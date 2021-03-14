@@ -26,6 +26,12 @@ sections:
       team of 8 here in Pleasanton incur.
 
     type: content_section
+  - title: lorem-ipsum
+    subtitle: lorem-ipsum
+    actions: []
+    has_background: false
+    background_color: white
+    type: cta_section
 seo:
   title: ''
   description: ''
