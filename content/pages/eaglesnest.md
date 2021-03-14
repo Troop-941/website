@@ -8,7 +8,7 @@ seo:
   type: stackbit_page_meta
 layout: page
 ---
-Troop 941 has a proud history of helping our scouts achieve their goal of reaching the rank of Eagle Scout
+Troop 941 has a proud history of helping our scouts achieve their goal of reaching the rank of Eagle Scout. Here are those that have earned the highest award scouting can offer:
 
 *   80 - 12/16/20 Jacob McMillin
 
