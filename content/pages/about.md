@@ -31,7 +31,7 @@ sections:
     subtitle: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit.'
     actions:
       - label: Learn More
-        url: /contact
+        url: /join
         style: secondary
     has_background: true
     background_color: blue
