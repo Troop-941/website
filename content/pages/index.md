@@ -59,7 +59,9 @@ seo:
       value: Stackbit Starter Theme
       keyName: property
     - name: 'og:description'
-      value: The preview of the Starter theme
+      value: >-
+        Troop 941 is a Boy Scout Troop in Pleasanton California. We are a part
+        of the Golden Gate Area Council, and chartered by VFW Post 6298.
       keyName: property
     - name: 'og:image'
       value: images/starter-preview.png
