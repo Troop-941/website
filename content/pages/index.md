@@ -48,7 +48,9 @@ sections:
     background_color: gray
 seo:
   title: Troop 941 - Pleasanton CA.
-  description: The preview of the Starter theme
+  description: >-
+    Troop 941 is a Boy Scout Troop in Pleasanton California. We are a part of
+    the Golden Gate Area Council, and chartered by VFW Post 6298.
   extra:
     - name: 'og:type'
       value: website
