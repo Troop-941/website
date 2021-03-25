@@ -68,7 +68,7 @@ seo:
       keyName: property
       relativeUrl: true
     - name: 'twitter:title'
-      value: Stackbit Starter Theme
+      value: Troop 941 - Pleasanton CA.
     - name: 'twitter:description'
       value: >-
         Troop 941 is a Boy Scout Troop in Pleasanton California. We are a part
