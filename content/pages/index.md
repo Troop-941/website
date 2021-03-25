@@ -64,7 +64,7 @@ seo:
         of the Golden Gate Area Council, and chartered by VFW Post 6298.
       keyName: property
     - name: 'og:image'
-      value: images/starter-preview.png
+      value: /images/group.png
       keyName: property
       relativeUrl: true
     - name: 'twitter:title'
