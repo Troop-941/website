@@ -67,8 +67,6 @@ seo:
       value: images/starter-preview.png
       keyName: property
       relativeUrl: true
-    - name: 'twitter:card'
-      value: summary_large_image
     - name: 'twitter:title'
       value: Stackbit Starter Theme
     - name: 'twitter:description'
