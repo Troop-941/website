@@ -56,7 +56,7 @@ seo:
       value: website
       keyName: property
     - name: 'og:title'
-      value: Stackbit Starter Theme
+      value: Troop 941 - Pleasanton CA.
       keyName: property
     - name: 'og:description'
       value: >-
