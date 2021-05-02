@@ -8,7 +8,7 @@ sections:
     actions:
       - label: Email
         url: 'mailto:scoutmaster@troop941.org'
-        style: secondary
+        style: primary
         new_window: false
         no_follow: false
         type: action
