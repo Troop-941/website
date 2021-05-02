@@ -13,7 +13,7 @@ sections:
         no_follow: false
         type: action
       - label: Discord
-        url: '#'
+        url: 'https://discord.com/invite/mvPe5jY9Ad'
         style: link
         new_window: false
         no_follow: false
