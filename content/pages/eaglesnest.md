@@ -10,6 +10,10 @@ layout: page
 ---
 Troop 941 has a proud history of helping our scouts achieve their goal of reaching the rank of Eagle Scout. Here are those that have earned the highest award scouting can offer:
 
+
+
+*   81 - 5/2/2021 Johnny Wessel
+
 *   80 - 12/16/20 Jacob McMillin
 
 *   79 - 12/15/20 Aaron McMillin
