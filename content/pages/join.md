@@ -9,7 +9,7 @@ sections:
       - label: Email
         url: 'mailto:scoutmaster@troop941.org'
         style: primary
-        new_window: false
+        new_window: true
         no_follow: false
         type: action
       - label: lorem-ipsum
