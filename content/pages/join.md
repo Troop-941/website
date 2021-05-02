@@ -3,8 +3,8 @@ title: Join Us!
 sections:
   - title: Join Us!
     content: >
-      If you would like to join us, shoot us an email, and we will help you find
-      your place with us!
+      If you would like to join us, use one of the buttons below to contact us,
+      and we will help you find your place with us!
     type: content_section
 seo:
   title: ''
