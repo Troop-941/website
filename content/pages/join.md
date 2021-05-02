@@ -2,8 +2,9 @@
 title: Join Us!
 sections:
   - title: Join Us!
-    content: |
-      This Page is Under Development...
+    content: >
+      If you would like to join us, shoot us an email, and we will help you find
+      your place with us!
     type: content_section
 seo:
   title: ''
