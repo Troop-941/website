@@ -10,7 +10,13 @@ sections:
     subtitle: >-
       If you would like to join us, use one of the buttons below to contact us,
       and we will help you find your place with us!
-    actions: []
+    actions:
+      - label: lorem-ipsum
+        url: '#'
+        style: link
+        new_window: false
+        no_follow: false
+        type: action
     has_background: false
     background_color: white
     type: cta_section
