@@ -7,7 +7,7 @@ sections:
       and we will help you find your place with us!
     actions:
       - label: Email
-        url: '#'
+        url: 'mailto:scoutmaster@troop941.org'
         style: link
         new_window: false
         no_follow: false
