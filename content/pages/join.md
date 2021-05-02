@@ -2,9 +2,25 @@
 title: Join Us!
 sections:
   - title: Join Us!
-    content: |
-      This Page is Under Development...
-    type: content_section
+    subtitle: >-
+      If you would like to join us, use one of the buttons below to contact us,
+      and we will help you find your place with us!
+    actions:
+      - label: Email
+        url: 'mailto:scoutmaster@troop941.org'
+        style: primary
+        new_window: true
+        no_follow: false
+        type: action
+      - label: Discord
+        url: 'https://discord.com/invite/mvPe5jY9Ad'
+        style: primary
+        new_window: false
+        no_follow: false
+        type: action
+    has_background: false
+    background_color: white
+    type: cta_section
 seo:
   title: ''
   description: ''
