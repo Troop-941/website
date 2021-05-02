@@ -14,7 +14,7 @@ sections:
         type: action
       - label: Discord
         url: 'https://discord.com/invite/mvPe5jY9Ad'
-        style: link
+        style: primary
         new_window: false
         no_follow: false
         type: action
