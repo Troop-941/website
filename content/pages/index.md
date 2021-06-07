@@ -9,7 +9,7 @@ sections:
         style: primary
       - label: Contact Us
         url: /contact
-        style: secondary
+        style: primary
     align: left
     image: images/logo.png
     image_alt: Hero placeholder image
