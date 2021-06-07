@@ -3,7 +3,6 @@ title: Home
 sections:
   - type: hero_section
     title: Fly High 941!
-    subtitle: Home of 80 Eagle Scouts since 2001!
     actions:
       - label: Learn More
         url: /about
