@@ -3,21 +3,20 @@ title: Home
 sections:
   - type: hero_section
     title: Fly High 941!
-    subtitle: Home of 80 Eagle Scouts since 2001!
     actions:
       - label: Learn More
         url: /about
         style: primary
       - label: Contact Us
         url: /contact
-        style: secondary
+        style: primary
     align: left
     image: images/logo.png
     image_alt: Hero placeholder image
     image_position: right
     has_background: true
     background:
-      background_color: blue
+      background_color: white
       background_image: images/goldenGate.jpg
       background_image_opacity: 20
       background_image_size: auto
