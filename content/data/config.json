@@ -69,6 +69,6 @@
         ],
         "content": "This <a href=\"https://nextjs.org/\">Next.js</a> Jamstack site was created with <a href=\"https://www.stackbit.com/\" target=\"_blank\" rel=\"noopener\">Stackbit</a>, and deployed on the <a href=\"https://www.cloudflare.com/\">Cloudflare</a> edge."
     },
-    "domain": "https://troop.goalastair.com",
+    "domain": "https://dev.troop941.org",
     "favicon": "images/smart-lettuce.png"
 }
