@@ -62,7 +62,7 @@
             },
             {
                 "label": "Email",
-                "url": "mail",
+                "url": "/mail",
                 "style": "link",
                 "new_window": true
             }
