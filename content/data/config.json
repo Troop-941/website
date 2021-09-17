@@ -62,7 +62,7 @@
             },
             {
                 "label": "Email",
-                "url": "mailto:scoutmaster@troop941.org",
+                "url": "mail",
                 "style": "link",
                 "new_window": true
             }
