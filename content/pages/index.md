@@ -32,7 +32,7 @@ sections:
         align: center
         image_position: left
         actions:
-          - label: lorem-ipsum
+          - label: Christmas Tree Pickup
             url: '#'
             style: link
             new_window: false
