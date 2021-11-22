@@ -36,7 +36,7 @@ sections:
           - label: Join Us!
             url: /join
             style: secondary
-      - title: lorem-ipsum
+      - title: Happy Holidays from all of us at Troop 941!
         content: >-
           ## Lorem ipsum
 
