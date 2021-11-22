@@ -36,17 +36,12 @@ sections:
           - label: Join Us!
             url: /join
             style: secondary
-      - content: >-
-          ## Lorem ipsum
+      - content: >
+          # Happy Holidays from all of us at Troop 941!
 
 
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
+          It's that time of year again! Order your Christmas Tree Pickup and
+          Commemorative Ornaments now!
         align: center
         image_alt: lorem-ipsum
         image_position: left
