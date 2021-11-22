@@ -38,7 +38,7 @@ sections:
             style: primary
             new_window: true
             no_follow: true
-          - label: lorem-ipsum
+          - label: Comemorative Ornaments
             url: '#'
             style: link
             new_window: false
