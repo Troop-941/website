@@ -27,7 +27,7 @@ sections:
           # Happy Holidays from all of us at Troop 941!
 
 
-          It's that time of year again! Order your Christmas Tree Pickup and
+          ### It's that time of year again! Order your Christmas Tree Pickup and
           Commemorative Ornaments now!
         align: center
         image_position: left
