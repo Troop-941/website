@@ -24,6 +24,15 @@ sections:
   - type: features_section
     features:
       - content: >
+          # Happy Holidays from all of us at Troop 941!
+
+
+          It's that time of year again! Order your Christmas Tree Pickup and
+          Commemorative Ornaments now!
+        align: center
+        image_position: left
+        actions: []
+      - content: >
           Boy Scouts of America Troop 941 is part of the Golden Gate Area
           Council, in the Twin Valley District. We are an advancement-focused
           Troop, having aided over 80 Scouts to reach their Eagle Rank since
@@ -36,15 +45,6 @@ sections:
           - label: Join Us!
             url: /join
             style: secondary
-      - content: >
-          # Happy Holidays from all of us at Troop 941!
-
-
-          It's that time of year again! Order your Christmas Tree Pickup and
-          Commemorative Ornaments now!
-        align: center
-        image_position: left
-        actions: []
   - type: cta_section
     title: Support the Troop 941 Face Shield Initiative
     subtitle: Working hard to support those who save our lives every day!
