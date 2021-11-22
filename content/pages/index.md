@@ -36,6 +36,22 @@ sections:
           - label: Join Us!
             url: /join
             style: secondary
+      - title: lorem-ipsum
+        content: >-
+          ## Lorem ipsum
+
+
+          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
+          eiusmod tempor incididunt ut labore et dolore magna aliqua.
+
+
+          - Lorem ipsum
+
+          - dolor sit amet
+        align: left
+        image_alt: lorem-ipsum
+        image_position: left
+        actions: []
   - type: cta_section
     title: Support the Troop 941 Face Shield Initiative
     subtitle: Working hard to support those who save our lives every day!
