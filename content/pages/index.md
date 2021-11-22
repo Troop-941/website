@@ -43,7 +43,7 @@ sections:
               https://forms.zohopublic.com/xmastrees/form/2021Troop941CommemorativeOrnamentstacked/formperma/mmmXvfGCqXJYwfPXP7yMa7RJHkdncXFVVrEO3-kYixY?referrername=TroopWebsite
             style: primary
             new_window: true
-            no_follow: false
+            no_follow: true
       - content: >
           Boy Scouts of America Troop 941 is part of the Golden Gate Area
           Council, in the Twin Valley District. We are an advancement-focused
