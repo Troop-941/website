@@ -43,7 +43,6 @@ sections:
           It's that time of year again! Order your Christmas Tree Pickup and
           Commemorative Ornaments now!
         align: center
-        image_alt: lorem-ipsum
         image_position: left
         actions: []
   - type: cta_section
