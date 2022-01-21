@@ -28,8 +28,7 @@ sections:
         image_position: left
         actions:
           - label: Donate Now
-            url: >-
-              https://forms.zohopublic.com/xmastrees/form/2021Troop941CommemorativeOrnamentstacked/formperma/mmmXvfGCqXJYwfPXP7yMa7RJHkdncXFVVrEO3-kYixY?referrername=TroopWebsite
+            url: 'https://paypal.me/BSATroop941'
             style: primary
             new_window: true
             no_follow: true
