@@ -23,7 +23,7 @@ sections:
       background_image_repeat: repeat
   - type: features_section
     features:
-      - content: "### Thank you Pleasanton for helping us have another successful Christmas Tree recycling event - over 800 trees (~15 tons) turned into mulch!\_ If you would like to donate to this fundraiser, please click the button below!&#xA;&#xA;\n"
+      - content: "### Thank you Pleasanton for helping us have another successful Christmas Tree recycling event - over 800 trees (~15 tons) turned into mulch!\_ If you would like to donate to this fundraiser, please click the button below!&#xA;\n"
         align: center
         image_position: left
         actions:
