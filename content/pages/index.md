@@ -27,7 +27,7 @@ sections:
         align: center
         image_position: left
         actions:
-          - label: Comemorative Ornaments
+          - label: Donate Now
             url: >-
               https://forms.zohopublic.com/xmastrees/form/2021Troop941CommemorativeOrnamentstacked/formperma/mmmXvfGCqXJYwfPXP7yMa7RJHkdncXFVVrEO3-kYixY?referrername=TroopWebsite
             style: primary
