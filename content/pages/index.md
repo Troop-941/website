@@ -27,12 +27,6 @@ sections:
         align: center
         image_position: left
         actions:
-          - label: Christmas Tree Pickup
-            url: >-
-              https://forms.zohopublic.com/xmastrees/form/2022BoyScoutTroop941ChristmasTreeRecycling/formperma/RM9Oi06c1StjmkX30NI4OTA_m-c7Vr1J9_NlUf8UCTg?referrername=TroopWebsite
-            style: primary
-            new_window: true
-            no_follow: true
           - label: Comemorative Ornaments
             url: >-
               https://forms.zohopublic.com/xmastrees/form/2021Troop941CommemorativeOrnamentstacked/formperma/mmmXvfGCqXJYwfPXP7yMa7RJHkdncXFVVrEO3-kYixY?referrername=TroopWebsite
