@@ -10,7 +10,11 @@ layout: page
 ---
 Troop 941 has a proud history of helping our scouts achieve their goal of reaching the rank of Eagle Scout. Here are those that have earned the highest award scouting can offer:
 
+*   84 - 1/18/22 Kai Gottschalk
 
+*   83 - 1/4/22 Ryan Cruz
+
+*   82 - 12/15/21 Lucas Crane
 
 *   81 - 5/2/2021 Johnny Wessel
 
